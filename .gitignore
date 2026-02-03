@@ -1,0 +1,8 @@
+gosync
+testdir
+output
+.DS_Store
+.vscode/
+*.db
+*.sqlite3
+blocks
